@@ -5,6 +5,8 @@
 	<key>fileTypes</key>
 	<array>
 		<string>vim</string>
+		<string>vimrc</string>
+		<string>ideavimrc</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>^(if|while|for|fu|function|augroup|aug)</string>
